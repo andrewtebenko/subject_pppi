@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\bin\Debug\net7.0\laba4_309_Tebenko_Andrew.exe
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\bin\Debug\net7.0\laba4_309_Tebenko_Andrew.deps.json
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\bin\Debug\net7.0\laba4_309_Tebenko_Andrew.runtimeconfig.json
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\bin\Debug\net7.0\laba4_309_Tebenko_Andrew.dll
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\bin\Debug\net7.0\laba4_309_Tebenko_Andrew.pdb
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.AssemblyInfo.cs
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.dll
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\refint\laba4_309_Tebenko_Andrew.dll
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.pdb
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\laba4_309_Tebenko_Andrew.genruntimeconfig.cache
+C:\Users\Acer\source\repos\laba4_309_Tebenko_Andrew\laba4_309_Tebenko_Andrew\obj\Debug\net7.0\ref\laba4_309_Tebenko_Andrew.dll
