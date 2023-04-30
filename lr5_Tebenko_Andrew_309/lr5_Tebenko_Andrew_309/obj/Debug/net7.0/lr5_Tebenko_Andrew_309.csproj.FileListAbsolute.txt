@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.AssemblyInfo.cs
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\bin\Debug\net7.0\lr5_Tebenko_Andrew_309.exe
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\bin\Debug\net7.0\lr5_Tebenko_Andrew_309.deps.json
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\bin\Debug\net7.0\lr5_Tebenko_Andrew_309.runtimeconfig.json
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\bin\Debug\net7.0\lr5_Tebenko_Andrew_309.dll
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\bin\Debug\net7.0\lr5_Tebenko_Andrew_309.pdb
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.dll
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\refint\lr5_Tebenko_Andrew_309.dll
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.pdb
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\lr5_Tebenko_Andrew_309.genruntimeconfig.cache
+C:\Users\Acer\source\repos\lr5_Tebenko_Andrew_309\lr5_Tebenko_Andrew_309\obj\Debug\net7.0\ref\lr5_Tebenko_Andrew_309.dll
